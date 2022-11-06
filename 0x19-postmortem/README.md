@@ -61,4 +61,4 @@ to automate fixing of any such identitical errors should they occur in the futur
 replaces any `phpp` extensions in the file `/var/www/html/wp-settings.php` with `php`.
 
 But of course, it will never occur again, because we're programmers, and we never make
-errors! 😉😉😉😉
+errors! 😉😉😉
